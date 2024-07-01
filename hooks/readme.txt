@@ -1,0 +1,1 @@
+Hook de log des verification de commits à placer dans le repertoire .git/hooks/ 
