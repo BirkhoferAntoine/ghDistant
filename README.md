@@ -1,1 +1,1 @@
-Git fun repository, for teaching purposes
+Git fun playground for teaching purposes
